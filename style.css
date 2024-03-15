@@ -1,0 +1,10 @@
+body {background-image: linear-gradient(rgb(5, 175, 243),rgb(160, 247, 250));
+    font-family: Truculenta ;
+    font-size: large;
+}
+
+img {border-radius: 50%;
+}
+
+div {width: 30%;
+    display: inline-block;}
