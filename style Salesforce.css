@@ -1,0 +1,20 @@
+body {background-image: linear-gradient(rgb(5, 175, 243),rgb(160, 247, 250));
+    font-family: Truculenta ;
+    font-size: large;
+}
+
+div .Salesforce2 { 
+    position: absolute;
+    left: 215px;
+}
+
+div .Salesforce3 {
+    position: relative ;
+    width: 200px;
+
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;}
